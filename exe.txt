@@ -1,4 +1,0 @@
-<Header>
-      Semana Omnistack //Para acessar esse conteudo de dentro do componente = props.children
-</Header>
-
